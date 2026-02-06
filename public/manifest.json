@@ -1,0 +1,12 @@
+{
+  "name": "StoryArch - 스토리아크",
+  "short_name": "StoryArch",
+  "description": "AI 기반 웹소설 창작 플랫폼",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "orientation": "portrait-primary",
+  "icons": [],
+  "categories": ["productivity", "entertainment"]
+}
